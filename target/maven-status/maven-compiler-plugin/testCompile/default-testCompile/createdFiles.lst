@@ -1,0 +1,8 @@
+utilities\ExcelReader$1.class
+pageObjects\CheckoutPage.class
+pageObjects\MyAccountPage.class
+pageObjects\LoginPage.class
+pageObjects\ShoppingCartPage.class
+pageObjects\BasePage.class
+testRunner\TestRunner.class
+pageObjects\SearchPage.class
