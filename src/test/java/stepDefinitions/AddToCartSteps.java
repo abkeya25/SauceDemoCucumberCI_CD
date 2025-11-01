@@ -7,7 +7,9 @@ import io.cucumber.java.en.*;
 import pageObjects.AddToCartPage;
 
 import java.time.Duration;
-
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.TimeoutException;
